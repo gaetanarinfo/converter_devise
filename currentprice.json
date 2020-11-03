@@ -1,0 +1,32 @@
+{
+    "time": {
+        "updated": "Nov 3, 2020 08:44:00 UTC",
+        "updatedISO": "2020-11-03T08:44:00+00:00",
+        "updateduk": "Nov 3, 2020 at 08:44 GMT"
+    },
+    "disclaimer": "This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org",
+    "chartName": "Bitcoin",
+    "bpi": {
+        "USD": {
+            "code": "USD",
+            "symbol": "&#36;",
+            "rate": "13,537.5983",
+            "description": "United States Dollar",
+            "rate_float": 13537.5983
+        },
+        "DINAR": {
+            "code": "DINAR",
+            "symbol": "D",
+            "rate": "11,588,66",
+            "description": "Algerian Dinar monaie",
+            "rate_float": 11588.66
+        },
+        "EUR": {
+            "code": "EUR",
+            "symbol": "&euro;",
+            "rate": "11,599.1361",
+            "description": "Euro",
+            "rate_float": 11599.1361
+        }
+    }
+}
