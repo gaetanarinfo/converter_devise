@@ -46,4 +46,4 @@
 
 # Description du projet
 
-Convertisseur de devise BTC, EUR, DINAR développé par notre formateur ARINFO & modifier par Gaëtan Seigneur
+Convertisseur de devise BTC, EUR, DINAR développé par Morghan & modifier par Gaëtan Seigneur
